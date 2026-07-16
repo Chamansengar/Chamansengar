@@ -16,9 +16,9 @@
 
 📈 Interests : Open Source • System Design • AI Applications 
 
-📍 Location  : India
+📍 Location  : India<br>
 
-<br>
+
 
 
 ## 🌐 Socials:
