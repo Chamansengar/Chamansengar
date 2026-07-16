@@ -14,13 +14,11 @@
 
 ⚙️ Languages : C | C++ | Java | Python | TypeScript | JavaScript
 
-📈 Interests : Open Source • System Design • AI Applications
+📈 Interests : Open Source • System Design • AI Applications 
 
 📍 Location  : India
 
-📫 Email     : chamansengarng@gmail.com
-
-🌐 GitHub    : github.com/ChamanSengar<br>
+<br>
 
 
 ## 🌐 Socials:
