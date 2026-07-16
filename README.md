@@ -1,3 +1,4 @@
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/c791acd0-93bb-4e6f-9c22-72ebcb764bec" />
 # 💫Hi there! 
 I’m a B.Tech Computer Science student with a strong passion for Artificial Intelligence, Machine Learning, and Data-Driven Innovation. I enjoy exploring how intelligent systems can solve real-world problems and make technology more human-centered.<br><br><br><br>My academic journey has equipped me with skills in programming (Python, C++), data structures, and algorithms, as well as hands-on experience with AI frameworks such as TensorFlow and PyTorch. I’ve also worked on projects involving machine learning models, computer vision, and natural language processing.<br><br><br><br>I’m eager to apply my technical knowledge to meaningful projects, internships, and research opportunities that contribute to the evolving field of AI. Always open to collaboration, learning, and sharing ideas that drive innovation.<br>
 
