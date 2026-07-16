@@ -1,13 +1,25 @@
 <img width="320" height="320" align="left" alt="image" src="https://github.com/user-attachments/assets/c791acd0-93bb-4e6f-9c22-72ebcb764bec" />
-### 🌟 About Me<br>
+👨‍🎓 Education : B.Tech CSE (Artificial Intelligence)
 
-- 🎓 B.Tech CSE (Artificial Intelligence)
-- 💻 Full Stack Developer (MERN)
-- 🤖 AI & Machine Learning Enthusiast
-- ☁️ Exploring AWS & Firebase
-- 📈 Learning Data Science
-- 🌍 Open Source Contributor
-- 🚀 Always building and learning<br>
+💻 Role      : Full Stack Developer
+
+🚀 Stack     : MERN | TypeScript | Firebase
+
+🧠 Learning  : AI | Machine Learning | Deep Learning
+
+☁️ Cloud     : AWS | Vercel
+
+🗄 Database  : MongoDB | MySQL
+
+⚙️ Languages : C | C++ | Java | Python | TypeScript | JavaScript
+
+📈 Interests : Open Source • System Design • AI Applications
+
+📍 Location  : India
+
+📫 Email     : chamansengarng@gmail.com
+
+🌐 GitHub    : github.com/ChamanSengar<br>
 
 
 ## 🌐 Socials:
